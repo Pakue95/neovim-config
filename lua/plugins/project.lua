@@ -1,7 +1,7 @@
 return {
   "ahmedkhalf/project.nvim",
   opts = {
-    manual_mode = false,
+    manual_mode = true,
   },
   event = "VeryLazy",
   config = function(_, opts)
